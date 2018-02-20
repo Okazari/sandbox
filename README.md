@@ -11,8 +11,6 @@ react-geocities
 
 react-rythm
 
-@okazari
-
 Articles
 -------
 
