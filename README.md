@@ -16,6 +16,8 @@ agile-collaboration
 
 
 
+
+
 Articles
 -------
 
@@ -30,3 +32,7 @@ Talks
 Le motion design
 
 Comment présenter un schéma
+
+mode de discours
+
+communication active
