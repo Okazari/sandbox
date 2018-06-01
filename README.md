@@ -17,3 +17,11 @@ Articles
 Popmotion Unicorn
 
 Rythm.js pulse animations
+
+
+Talks
+------
+
+Le motion design
+
+Comment présenter un schéma
