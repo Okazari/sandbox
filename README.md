@@ -35,4 +35,4 @@ Comment présenter un schéma
 
 mode de discours
 
-communication active
+écoute active
