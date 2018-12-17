@@ -25,6 +25,8 @@ Popmotion Unicorn
 
 Rythm.js pulse animations
 
+Component design toughts
+
 
 Talks
 ------
